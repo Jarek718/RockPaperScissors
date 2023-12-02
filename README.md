@@ -3,7 +3,7 @@
 ### Project 1: Rock Paper Scissors
 `Description:` Program a Rock Paper Scissors game that will be played in console.
 -	The game must run infinitely until the user wants to exit, by typing Exit.
--	The game must check whether the input is correct (i.e., “Rock”, “Paper”, “Scissors” or “Exit”) and respond accordingly.
+-	The game must check whether the input is correct (i.e., “ROCK”, “PAPER”, “SCISSORS” or “EXIT”) and respond accordingly.
 -	The game must have a difficulty selector between the AI Behaviors at the beginning of the game.
 -	Keep a score counter AI vs Player Name.
 -	Save the Player Name and Score to a Score Board in a txt file
