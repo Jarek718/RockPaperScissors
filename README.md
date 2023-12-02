@@ -24,5 +24,5 @@ You may add more AI behaviors if you want to.
 
 `Bonus:` You may look into a GUI (Graphical User Interface) and use it in your project after your project is completed.
 
-### Download RPS.rar for Executable
+### Download RPS.rar install
 [Rock Paper Scissors Console Game](https://github.com/Jarek718/RockPaperScissors/raw/main/RPS.rar)
