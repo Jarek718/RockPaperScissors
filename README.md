@@ -1,6 +1,6 @@
-# C\# Project Plan
+# C\# Project Plan for theCoderSchool
 ## By Jarosław Rybak
-### Project 1: Rock Paper Scissors
+### Project: Rock Paper Scissors
 `Description:` Program a Rock Paper Scissors game that will be played in console.
 -	The game must run infinitely until the user wants to exit, by typing Exit.
 -	The game must check whether the input is correct (i.e., “ROCK”, “PAPER”, “SCISSORS” or “EXIT”) and respond accordingly.
@@ -23,3 +23,6 @@
 You may add more AI behaviors if you want to.
 
 `Bonus:` You may look into a GUI (Graphical User Interface) and use it in your project after your project is completed.
+
+### Download RPS.rar for Executable
+[Rock Paper Scissors Console Game](RPS.rar)
